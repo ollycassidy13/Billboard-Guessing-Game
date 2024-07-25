@@ -1,0 +1,4 @@
+customtkinter
+billboard.py
+requests
+Pillow
